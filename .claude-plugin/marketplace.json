@@ -1,0 +1,16 @@
+{
+  "name": "lbennett-skills",
+  "owner": {
+    "name": "lbennett-stacki",
+    "url": "https://github.com/lbennett-stacki"
+  },
+  "description": "Reusable Claude Code skills for day-to-day agentic engineering.",
+  "plugins": [
+    {
+      "name": "lbennett",
+      "source": "./",
+      "description": "splice-pr, done, jot, read-aloud.",
+      "version": "0.1.0"
+    }
+  ]
+}

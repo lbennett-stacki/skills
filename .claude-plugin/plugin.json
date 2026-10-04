@@ -1,0 +1,13 @@
+{
+  "name": "lbennett",
+  "version": "0.1.0",
+  "description": "Reusable Claude Code skills: split a big PR into a safe stack, end-of-session status check, personal notes, read anything aloud.",
+  "author": {
+    "name": "lbennett-stacki",
+    "url": "https://github.com/lbennett-stacki"
+  },
+  "homepage": "https://github.com/lbennett-stacki/skills",
+  "repository": "https://github.com/lbennett-stacki/skills",
+  "license": "MIT",
+  "keywords": ["claude-code", "skills", "pull-requests", "git", "notes", "tts"]
+}

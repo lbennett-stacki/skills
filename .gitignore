@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+*-workspace/
+# Private terms the leak check greps for. Never commit it: the list is itself a leak.
+.leak-denylist
